@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sakshi  
 
 🎓 CSE Student | Aspiring Data Analyst | Marketing + Tech Enthusiast  
-🌍 Preparing for GKS & MEXT Scholarships | TOEFL: 100/120  
 
 ---
 
