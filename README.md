@@ -74,5 +74,4 @@
 ## ✨ About Me  
 
 💡 Always curious about **data, design & innovation**  
-📌 Currently working on: *Deep Learning in Pharmacogenomics*  
-🎯 Goals for 2025: Secure **GKS & MEXT Scholarships**, achieve **TOPIK Level 2**, grow in **Data Analytics & Research**  
+📌 Currently working on: *Deep Learning in Pharmacogenomics* 
